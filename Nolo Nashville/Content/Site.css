@@ -1,0 +1,15 @@
+﻿body {
+    margin: 0;
+    background-image: url('../Images/mcole_polejam.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+#noloNav{
+    background: black;
+    border-color: white;
+    border-left-width: thick;
+    font-size: 25px;
+    color: white;
+}
+
