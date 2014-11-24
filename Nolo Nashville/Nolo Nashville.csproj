@@ -239,6 +239,7 @@
     <Content Include="Images\trooper_thumbsup_web copy.jpg" />
     <Content Include="Images\weskremer_bsflip_alleybump copy.jpg" />
     <Content Include="Images\zech_wallie_plaza copy.jpg" />
+    <Content Include="nolo.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Images\Web.config" />
