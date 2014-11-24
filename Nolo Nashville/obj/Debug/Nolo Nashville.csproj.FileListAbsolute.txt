@@ -53,3 +53,58 @@ C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Nolo Nashville\Nolo N
 C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Nolo Nashville\Nolo Nashville\obj\Debug\Nolo Nashville.csprojResolveAssemblyReference.cache
 C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Nolo Nashville\Nolo Nashville\obj\Debug\Nolo Nashville.dll
 C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Nolo Nashville\Nolo Nashville\obj\Debug\Nolo Nashville.pdb
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Nolo Nashville.dll.config
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Nolo Nashville.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Nolo Nashville.pdb
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Antlr3.Runtime.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\EntityFramework.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\EntityFramework.SqlServer.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.AspNet.Identity.Core.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Security.Cookies.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Security.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Security.Facebook.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Security.Google.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Security.OAuth.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Security.Twitter.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Web.Infrastructure.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Newtonsoft.Json.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Owin.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\System.Web.Helpers.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\System.Web.Mvc.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\System.Web.Optimization.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\System.Web.Razor.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\System.Web.WebPages.Deployment.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\System.Web.WebPages.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\System.Web.WebPages.Razor.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\WebGrease.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\System.Web.Helpers.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\System.Web.Mvc.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\System.Web.Optimization.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\System.Web.Razor.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\System.Web.WebPages.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\System.Web.WebPages.Deployment.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\System.Web.WebPages.Razor.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Antlr3.Runtime.pdb
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Newtonsoft.Json.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\EntityFramework.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\EntityFramework.SqlServer.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.AspNet.Identity.Core.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Security.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Security.Facebook.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Security.Cookies.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Security.OAuth.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Security.Google.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Security.Twitter.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\obj\Debug\Nolo Nashville.csprojResolveAssemblyReference.cache
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\obj\Debug\Nolo Nashville.dll
+C:\GitHubRepositiories\NoloNashville\Nolo Nashville\obj\Debug\Nolo Nashville.pdb

@@ -177,6 +177,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="HtmlPage1.html" />
     <Content Include="Images\1dee_bs5050_woodland copy.jpg" />
     <Content Include="Images\2shane_gapsmith_woodland copy.jpg" />
     <Content Include="Images\3branson_fswallride copy.jpg" />

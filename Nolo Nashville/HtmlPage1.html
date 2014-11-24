@@ -1,15 +1,14 @@
 ﻿<!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - My ASP.NET Application</title>
 
-    @Styles.Render("~/Content/css")
-    @Scripts.Render("~/bundles/modernizr")
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/Site.css" rel="stylesheet" />
 
+    <title></title>
 </head>
 <body id="backgroundImage">
+ 
     <div class="container">
         <div class="row">
             <div class="navbar navbar-fixed-top navbar-inverse">
@@ -20,21 +19,16 @@
         </div>
     </div>
 
-        @RenderBody()
-    
 
-
-    @Scripts.Render("~/bundles/jquery")
-    @Scripts.Render("~/bundles/bootstrap")
-    @RenderSection("scripts", required: false)
 
     <div class="container">
         <footer class="navbar navbar-inverse navbar-fixed-bottom footer">
-                <div class="navbar-brand">
-                    Nolo Nashville
-                </div>
+            <div class="navbar-brand">
+                Nolo Nashville
+            </div>
         </footer>
     </div>
-
+    <script src="Scripts/jquery-1.10.2.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
 </body>
 </html>
